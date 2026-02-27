@@ -2,7 +2,7 @@
 ## Descripción General 
 Este repositorio contiene un panel de análisis de ventas interactivo desarrollado en MS Excel. El dashboard está diseñado para monitorear y analizar el rendimiento comercial de múltiples tiendas a través de indicadores clave de rendimiento (KPIs), ventas por categoría de producto, y un ranking detallado de productos. La herramienta permite obtener una visión clara y rápida del desempeño general, identificar productos estrella y detectar oportunidades de mejora.
 
-![](img/Panel.png)
+![](img/panel.png)
 
 ## Características Principales
 - **Indicadores KPI:** Visualización clara de las Ventas Totales (S/ 2.03M), Unidades Vendidas (2694) y el Porcentaje de cumplimiento (100%).
